@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>DQQ-Blog</title>
   
-  <subtitle>a noob programmer</subtitle>
+  <subtitle>前端 弱鸡</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Lele Deng</name>
+    <name>邓乐乐</name>
     
   </author>
   
